@@ -1,0 +1,23 @@
+body{
+    background-color:#F3F1FF;
+}
+.col-md-4 img, .navbar img{
+    width: 56px;
+}
+section{
+    margin-bottom: 20px;
+}
+.blog-img-size{
+    width: 177px;
+}
+
+.star-color{
+    color: gold;
+
+}
+.clock{
+    background-color: #FFE4E8;
+    color: #FF5D71;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
